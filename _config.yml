@@ -25,7 +25,7 @@ author:
   email: marko@korevec.net #optional
   website: https://korevec.net
 description: >- # this means to ignore newlines until "baseurl:"
-  @maxvoltar's minimalistic, self-hosted photo stream.
+  @mkorevec photostream
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://photos.korevec.net/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mkorevec
